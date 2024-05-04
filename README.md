@@ -2,6 +2,8 @@
 
 El Nebula Compiler es un proyecto de compilador desarrollado en Java para el lenguaje Nebula. Nebula es un lenguaje de programación estructurado, inspirado en C pero con una sintaxis más simple y legible similar a Python. Este proyecto también incluye un editor de texto integrado para facilitar el desarrollo en Nebula.
 
+![Captura de pantalla 1](compil.png)
+*Interfaz del Editor de Texto en modo oscuro*
 ## Características
 
 - **Compilador de Nebula:** El compilador convierte el código fuente escrito en Nebula en código ejecutable.
